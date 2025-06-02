@@ -16,6 +16,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LANGUAGE: true
           SHOW_OS: false
+          SHOW_PROFILE_VIEWS: true
           SHOW_EDITORS: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_LOC_CHART: false
