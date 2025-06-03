@@ -4,6 +4,10 @@ on:
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
+
+permissions:
+  contents: write 
+  
 jobs:
   update-readme:
     name: Update this repo's README
