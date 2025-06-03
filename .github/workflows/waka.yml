@@ -19,3 +19,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TOTAL: true
