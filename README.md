@@ -31,6 +31,7 @@
 ---
 
 <!--START_SECTION:waka-->
+
 ```txt
 Total Time: 1,425 hrs 36 mins
 
@@ -40,4 +41,5 @@ TypeScript                 201 hrs 25 mins       ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀�
 Go                         107 hrs 40 mins       ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.38 %
 HTML                       80 hrs 17 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.50 %
 ```
+
 <!--END_SECTION:waka-->
